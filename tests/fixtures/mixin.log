@@ -1,0 +1,3 @@
+org.spongepowered.asm.mixin.transformer.throwables.MixinApplyError: Mixin [example.mixins.json:RenderMixin] FAILED during APPLY
+Caused by: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: could not find target method
+

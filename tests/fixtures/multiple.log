@@ -1,0 +1,5 @@
+[12:00:00] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.9
+[12:00:01] [main/ERROR]: Incompatible mods found!
+net.fabricmc.loader.impl.discovery.ModResolutionException: Mod 'Example' (example) requires version >=0.100 of fabric-api, which is missing!
+
+[main/ERROR]: Mod 'Another Example' (another) 1.0 requires version 1.21.1 of 'Minecraft' (minecraft), but only 1.20.1 is present!

@@ -1,0 +1,5 @@
+[main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.9
+net.fabricmc.loader.impl.discovery.ModResolutionException: Incompatible mods found!
+ - Mod 'Nvidium' (nvidium) 0.4.1 requires version 1.21.5 of 'Minecraft' (minecraft), but only 1.21.1 is present!
+ - Mod 'Example' (example) 1.0.0 requires version >=0.100 of fabric-api, which is missing!
+ - Mod 'Other' (other) 2.0 requires version >=2.0 of helper, which is missing!
